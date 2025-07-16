@@ -1,0 +1,3 @@
+---Manual Failover
+
+ALTER DATABASE RetailDB SET PARTNER FAILOVER;
